@@ -1,0 +1,1 @@
+g++ European.cpp EuropeanCall.cpp EuropeanPut.cpp Asian.cpp AsianCall.cpp MonteCarlo.cpp AsianPut.cpp	Option.cpp BinomialTree.cpp main.cpp BinomialTreeNode.cpp supportLib.cpp pbPlots.cpp -o exe_file -std=c++11
